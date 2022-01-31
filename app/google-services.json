@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1031163362062",
+    "project_id": "chatapp-8c4f6",
+    "storage_bucket": "chatapp-8c4f6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1031163362062:android:64e8595a8d02516d97b55f",
+        "android_client_info": {
+          "package_name": "com.egeperk.chatappjava"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1031163362062-9v9m8puequcbahcejaikup5gjmbhk2n7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArcGYWPEWcQLMZrJHV6yoJdcm6PV2lEq8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1031163362062-9v9m8puequcbahcejaikup5gjmbhk2n7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
